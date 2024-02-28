@@ -6,6 +6,13 @@
 - It is built with Python using Flask + ReactJS, and it utilizes **collaborative filtering** and **correlation-based 
 recommendation algorithms**.
 
+## 🗂️ **Project Structure** 🗂️
+
+- `backend/`: Backend directory housing server-side code written in **Python Flask**, utilizing the **MVC architecture** and employing **SQLite3** as a testing database. Contains the logic for the recommendation system.
+- `frontend/`: Frontend directory holding client-side code written in **ReactJS**.
+- `README.md`: Markdown file providing an overview of the project.
+- `SpearmanRecsysDocumentation.pdf`: PDF document containing documentation related to the Spearman Recommendation System.
+
 ## 🔎 Overview 🔎
 
 The core of the Movie Recommendation System lies in the application of **collaborative filtering**, 
